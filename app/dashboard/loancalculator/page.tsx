@@ -294,7 +294,7 @@ const LoanEMICalculatorApp = () => {
                                     <div className="space-y-2">
                                         <label
                                             htmlFor="newLoanAmount"
-                                            className=" block text-sm font-medium flex items-center gap-1"
+                                            className="block text-sm font-medium flex items-center gap-1"
                                         >
                                             <IndianRupee className="w-4 h-4" />
                                             Loan Amount (₹)
